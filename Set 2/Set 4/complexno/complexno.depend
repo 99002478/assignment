@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600776214 source:c:\users\temp\desktop\complexno\complex_test.cpp
+	"complexno.cpp"
+	<iostream>
+	<gtest/gtest.h>
+
+1600776227 c:\users\temp\desktop\complexno\complexno.cpp
+	<iostream>
+	"complexno.h"
+
+1600776216 c:\users\temp\desktop\complexno\complexno.h
+
+1600776227 source:c:\users\temp\desktop\complexno\complexno.cpp
+	<iostream>
+	"complexno.h"
+
