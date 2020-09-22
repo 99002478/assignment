@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600777819 source:c:\users\temp\desktop\distance\distance.cpp
+	"Distance.h"
+	<iostream>
+
+1600777849 c:\users\temp\desktop\distance\distance.h
+

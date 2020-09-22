@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600777056 source:c:\users\temp\desktop\fracton\fractions.cpp
+	<iostream>
+	"fractions.h"
+
+1600777084 c:\users\temp\desktop\fracton\fractions.h
+	<string>
+
+1600777020 source:c:\users\temp\desktop\fracton\fractions_test.cpp
+	"fractions.h"
+	<gtest/gtest.h>
+
