@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600832807 source:c:\users\temp.bltsp00242\desktop\ipadd\ipaddtest.cpp
+	"Ipadd.h"
+	<iostream>
+	<gtest/gtest.h>
+
+1600832763 c:\users\temp.bltsp00242\desktop\ipadd\ipadd.h
+	<string>
+

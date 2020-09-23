@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600831692 source:c:\users\temp.bltsp00242\desktop\box\box.cpp
+	<iostream>
+	"Box.h"
+
+1600831679 c:\users\temp.bltsp00242\desktop\box\box.h
+	<string>
+
+1600831704 source:c:\users\temp.bltsp00242\desktop\box\box_test.cpp
+	"Box.h"
+	<gtest/gtest.h>
+

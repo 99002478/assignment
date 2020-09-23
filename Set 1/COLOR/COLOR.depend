@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600832648 source:c:\users\temp.bltsp00242\desktop\color\color.cpp
+	<iostream>
+	"COLOR.h"
+
+1600832565 c:\users\temp.bltsp00242\desktop\color\color.h
+	<string>
+
+1600832639 source:c:\users\temp.bltsp00242\desktop\color\colortest.cpp
+	"COLOR.h"
+	"gtest/gtest.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600833129 source:c:\users\temp.bltsp00242\desktop\image\image.cpp
+	<iostream>
+	"image.h"
+
+1600833114 c:\users\temp.bltsp00242\desktop\image\image.h
+
+1600833160 source:c:\users\temp.bltsp00242\desktop\image\imagetest.cpp
+	"image.h"
+	<gtest/gtest.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600832397 source:c:\users\temp.bltsp00242\desktop\point\point_test.cpp
+	"point.h"
+	<gtest/gtest.h>
+
+1600832354 c:\users\temp.bltsp00242\desktop\point\point.h
+
+1600832445 source:c:\users\temp.bltsp00242\desktop\point\point.cpp
+	"point.h"
+	<iostream>
+	<cmath>
+
